@@ -1,18 +1,18 @@
 export const products = [
 {
     id:1,
-    img:"https://images.unsplash.com/photo-1638514926820-f1b442161608?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=663&q=80",
+    img:"https://i.imgur.com/rsGMyHZ.png",
     link:"https://vigilant-poitras-9fbdda.netlify.app",
 },
 {
     id:2,
-    img:"https://images.unsplash.com/photo-1638477652549-7f727edac154?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyOHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
-    link:"https://vigilant-poitras-9fbdda.netlify.app",
+    img:"https://i.imgur.com/wNWugDl.png",
+    link:"https://www.instagram.com/_archit.me_/",
 },
 {
     id:3,
-    img:"https://images.unsplash.com/photo-1638454668466-e8dbd5462f20?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1OXx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
-    link:"https://vigilant-poitras-9fbdda.netlify.app",
+    img:"https://i.imgur.com/cDnoL0x.png",
+    link:"https://www.linkedin.com/in/archit-bambhorikar-704b04197/",
 },
 {
     id:4,

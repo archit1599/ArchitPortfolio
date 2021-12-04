@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ArchitPortfolio/static/css/main.02983f62.chunk.css",
+    "main.js": "/ArchitPortfolio/static/js/main.e083fe19.chunk.js",
+    "main.js.map": "/ArchitPortfolio/static/js/main.e083fe19.chunk.js.map",
+    "runtime-main.js": "/ArchitPortfolio/static/js/runtime-main.b4c8ad60.js",
+    "runtime-main.js.map": "/ArchitPortfolio/static/js/runtime-main.b4c8ad60.js.map",
+    "static/js/2.e54f2396.chunk.js": "/ArchitPortfolio/static/js/2.e54f2396.chunk.js",
+    "static/js/2.e54f2396.chunk.js.map": "/ArchitPortfolio/static/js/2.e54f2396.chunk.js.map",
+    "index.html": "/ArchitPortfolio/index.html",
+    "static/css/main.02983f62.chunk.css.map": "/ArchitPortfolio/static/css/main.02983f62.chunk.css.map",
+    "static/js/2.e54f2396.chunk.js.LICENSE.txt": "/ArchitPortfolio/static/js/2.e54f2396.chunk.js.LICENSE.txt",
+    "static/media/address.29e393ca.png": "/ArchitPortfolio/static/media/address.29e393ca.png",
+    "static/media/email.a49e0158.png": "/ArchitPortfolio/static/media/email.a49e0158.png",
+    "static/media/me.77aacce2.png": "/ArchitPortfolio/static/media/me.77aacce2.png",
+    "static/media/moon.3bea3d39.png": "/ArchitPortfolio/static/media/moon.3bea3d39.png",
+    "static/media/my_pic.50373a62.jpg": "/ArchitPortfolio/static/media/my_pic.50373a62.jpg",
+    "static/media/phone.7943f54a.png": "/ArchitPortfolio/static/media/phone.7943f54a.png",
+    "static/media/sun.d07c9ece.png": "/ArchitPortfolio/static/media/sun.d07c9ece.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4c8ad60.js",
+    "static/js/2.e54f2396.chunk.js",
+    "static/css/main.02983f62.chunk.css",
+    "static/js/main.e083fe19.chunk.js"
+  ]
+}
